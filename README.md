@@ -10,6 +10,8 @@ Here's an example:
 
 ![Example](/images/example2.png "An example of suitable input")
 
+The function breaks the teams into strongly connected groups and rates them within those groups, so you don't need to make sure all the teams are strongly connected.
+
 
 ## Installation
 Open the spreadsheet where you want to have the function and go to Extensions > App Script and then either copy and paste the code directly into the default script or make a new one and paste it there.
